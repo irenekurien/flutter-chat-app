@@ -1,6 +1,6 @@
-# chatt_app
+# chat_app
 
-A new Flutter project.
+A messaging app where users can sign up and log in to chat using Firebase Cloud Firestore and the Firebase authentication package to provide a database and secure authentication methods.
 
 ## Getting Started
 
